@@ -1,0 +1,13 @@
+telethon
+tweepy
+groq
+python-dotenv
+tenacity
+pydantic-settings
+loguru
+google-generativeai
+httpx
+certifi
+fake-useragent
+aiohttp
+rapidfuzz

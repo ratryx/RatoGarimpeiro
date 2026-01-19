@@ -1,0 +1,1838 @@
+2025-12-22 09:31:06.882 | INFO     | __main__:<module>:21 - 🐭 RATO GARIMPEIRO (MODO AGRESSIVO) ATIVADO!
+2025-12-22 09:31:07.216 | SUCCESS  | src.core.ai_brain:__init__:26 - 🤖 Cérebro Híbrido: Gemini + Groq (Backup) Ativados!
+2025-12-22 09:31:07.216 | SUCCESS  | __main__:<module>:29 - ✅ Core OK!
+2025-12-22 09:31:07.216 | SUCCESS  | __main__:<module>:44 - 🐦 X OK!
+2025-12-22 09:31:08.972 | SUCCESS  | __main__:main:190 - 🚀 Rodando em 34 fontes.
+2025-12-22 09:32:09.730 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 09:32:09.907 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 1
+2025-12-22 09:32:09.908 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 09:32:16.692 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 09:32:20.745 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:32:20.745 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 0 restantes)
+2025-12-22 09:32:21.389 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 09:32:22.396 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:33:09.283 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:33:12.863 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 1
+2025-12-22 09:34:09.110 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:34:09.470 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:34:09.836 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 2
+2025-12-22 09:35:09.084 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:35:09.105 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:35:09.144 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:35:09.413 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:35:09.858 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 3
+2025-12-22 09:35:10.087 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 4
+2025-12-22 09:35:22.411 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:35:29.863 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:35:32.026 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:35:32.026 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 3 restantes)
+2025-12-22 09:35:32.040 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 09:35:33.043 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:36:09.185 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:36:09.203 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:36:09.246 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:36:09.884 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:37:09.187 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:37:09.554 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 4
+2025-12-22 09:38:09.434 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:38:11.141 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:38:12.255 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 5
+2025-12-22 09:38:17.830 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:38:33.052 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:38:39.122 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:38:41.151 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:38:41.152 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 4 restantes)
+2025-12-22 09:38:41.767 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 09:38:42.772 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:40:09.912 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:40:10.343 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:40:10.405 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:40:10.990 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 5
+2025-12-22 09:40:12.176 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:41:09.345 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:41:10.995 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:41:12.092 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 6
+2025-12-22 09:41:12.522 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:41:13.424 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 7
+2025-12-22 09:41:42.782 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:41:49.791 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:41:52.591 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:41:52.591 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 6 restantes)
+2025-12-22 09:41:52.606 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 09:41:53.607 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:42:09.127 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:42:09.732 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 7
+2025-12-22 09:43:09.247 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:44:53.612 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:45:09.171 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:45:13.333 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:45:13.333 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 6 restantes)
+2025-12-22 09:45:13.991 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 09:45:15.003 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:48:09.415 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:48:15.019 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:48:21.061 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:48:23.283 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:48:23.284 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 5 restantes)
+2025-12-22 09:48:23.298 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 09:48:24.314 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:50:09.176 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:51:09.411 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:51:09.553 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:51:10.408 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 6
+2025-12-22 09:51:24.318 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:51:30.810 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:51:34.097 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:51:34.098 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 5 restantes)
+2025-12-22 09:51:34.713 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 09:51:35.722 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:52:08.957 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:53:09.294 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 09:53:09.502 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:53:09.529 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:53:09.910 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 6
+2025-12-22 09:53:09.986 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 7
+2025-12-22 09:54:09.166 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:54:35.727 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:54:41.300 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:54:44.036 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:54:44.037 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 6 restantes)
+2025-12-22 09:54:44.052 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 09:54:45.053 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:57:09.130 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:57:09.397 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:57:09.967 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 7
+2025-12-22 09:57:10.892 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:57:11.501 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 8
+2025-12-22 09:57:12.075 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 09:57:45.057 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 09:57:50.137 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 09:57:53.004 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 09:57:53.004 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 7 restantes)
+2025-12-22 09:57:53.625 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 09:57:54.633 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 09:58:09.265 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 09:58:09.639 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 09:58:09.829 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 8
+2025-12-22 09:59:09.503 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:00:09.365 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:00:09.952 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: NIKE
+2025-12-22 10:00:10.978 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 9
+2025-12-22 10:00:54.639 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:01:08.624 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:01:11.930 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:01:13.565 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 10:01:13.565 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 8 restantes)
+2025-12-22 10:01:13.577 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:01:13.577 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:02:09.496 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:03:09.451 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 10:04:13.592 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:04:42.042 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:04:45.344 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:04:45.344 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 7 restantes)
+2025-12-22 10:04:45.972 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:04:46.975 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:05:09.511 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:05:10.533 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 8
+2025-12-22 10:06:09.469 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:07:09.776 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 10:07:10.673 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 10:07:10.728 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:07:46.979 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:07:53.764 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:07:56.378 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:07:56.379 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 7 restantes)
+2025-12-22 10:07:56.393 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:07:57.399 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:08:09.269 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:10:09.591 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:10:09.763 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 8
+2025-12-22 10:10:10.430 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:10:10.602 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 9
+2025-12-22 10:10:11.382 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:10:12.449 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 10
+2025-12-22 10:10:57.403 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:11:03.762 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:11:06.571 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:11:06.571 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 9 restantes)
+2025-12-22 10:11:07.207 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:11:08.214 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:11:09.615 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:11:09.847 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 10:11:11.572 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:11:12.367 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 10
+2025-12-22 10:12:09.708 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:13:09.655 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:13:09.655 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 11
+2025-12-22 10:13:10.343 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:13:10.343 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 12
+2025-12-22 10:13:11.439 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:13:12.439 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 13
+2025-12-22 10:14:08.219 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:14:09.582 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:14:09.651 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:14:09.991 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 13
+2025-12-22 10:14:10.671 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:14:11.009 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 14
+2025-12-22 10:14:15.556 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:14:18.010 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:14:18.010 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 14 restantes)
+2025-12-22 10:14:18.024 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:14:19.029 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:15:09.698 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:15:10.487 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 15
+2025-12-22 10:17:09.623 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:17:09.882 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:17:10.548 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: NETSHOES
+2025-12-22 10:17:11.977 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:17:11.988 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 16
+2025-12-22 10:17:12.144 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 17
+2025-12-22 10:17:12.170 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 18
+2025-12-22 10:17:19.034 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:17:27.112 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:17:29.821 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:17:29.821 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 17 restantes)
+2025-12-22 10:17:30.602 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:17:31.609 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:20:10.465 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:20:10.725 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:20:31.614 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:20:38.078 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:20:40.657 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:20:40.658 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 16 restantes)
+2025-12-22 10:20:40.672 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:20:41.674 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:21:09.734 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:21:10.237 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 17
+2025-12-22 10:22:11.362 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:22:12.111 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 18
+2025-12-22 10:23:41.678 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:23:48.915 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:23:51.468 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:23:51.468 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 17 restantes)
+2025-12-22 10:23:52.104 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:23:53.114 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:24:10.028 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:26:10.343 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:26:10.349 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:26:10.845 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 18
+2025-12-22 10:26:10.990 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 19
+2025-12-22 10:26:11.506 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:26:11.949 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 20
+2025-12-22 10:26:53.118 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: NIKE...
+2025-12-22 10:26:59.613 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: NIKE
+2025-12-22 10:27:02.725 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:27:02.726 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 19 restantes)
+2025-12-22 10:27:02.741 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:27:03.742 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:27:10.425 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:27:28.447 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:27:28.788 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 20
+2025-12-22 10:28:09.786 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:29:11.198 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:29:11.727 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 21
+2025-12-22 10:30:03.747 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:30:04.029 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.170097223s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]). Acionando Groq...
+2025-12-22 10:30:04.783 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:30:08.279 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:30:08.279 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 20 restantes)
+2025-12-22 10:30:08.891 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:30:09.902 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:30:10.231 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:30:10.871 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 21
+2025-12-22 10:30:12.413 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:31:09.907 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:31:11.030 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:33:09.907 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:33:10.188 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.009653134s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]). Acionando Groq...
+2025-12-22 10:33:10.788 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:33:11.168 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:33:12.591 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:33:12.592 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 20 restantes)
+2025-12-22 10:33:12.606 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:33:13.613 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:34:10.731 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:34:10.745 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:36:13.186 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:36:13.618 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:36:14.004 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 45.186906827s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 45
+}
+]). Acionando Groq...
+2025-12-22 10:36:14.679 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:36:17.046 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 10:36:17.047 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 19 restantes)
+2025-12-22 10:36:17.668 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:36:17.669 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:37:10.264 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:37:10.795 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:38:10.030 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:38:10.152 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:38:10.364 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 20
+2025-12-22 10:38:10.412 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 21
+2025-12-22 10:39:10.072 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:39:10.150 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:39:10.200 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:39:10.409 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 22
+2025-12-22 10:39:10.415 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:39:10.565 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 23
+2025-12-22 10:39:10.657 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 24
+2025-12-22 10:39:11.159 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:39:11.227 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:39:11.353 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 25
+2025-12-22 10:39:11.508 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 26
+2025-12-22 10:39:17.684 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:39:29.587 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:39:33.266 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:39:33.266 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 25 restantes)
+2025-12-22 10:39:33.281 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:39:34.290 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:40:10.074 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:40:10.078 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:40:10.421 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 26
+2025-12-22 10:40:10.765 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 27
+2025-12-22 10:40:11.100 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:40:11.311 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 28
+2025-12-22 10:40:11.487 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:40:11.913 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 29
+2025-12-22 10:40:12.131 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:42:10.015 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:42:10.364 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 30
+2025-12-22 10:42:34.297 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:42:34.583 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.613441171s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 24
+}
+]). Acionando Groq...
+2025-12-22 10:42:35.335 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:42:37.947 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:42:37.948 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 29 restantes)
+2025-12-22 10:42:38.578 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:42:39.594 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:44:09.704 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:44:11.006 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:44:13.260 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:44:15.897 | WARNING  | src.core.amazon_image:baixar_imagem_amazon:28 - ❌ Amazon: Não foi possível localizar a imagem do produto
+2025-12-22 10:44:15.897 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 30
+2025-12-22 10:45:03.806 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:45:04.367 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 31
+2025-12-22 10:45:05.058 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 10:45:05.609 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 32
+2025-12-22 10:45:39.597 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:45:39.911 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 19.279551611s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 19
+}
+]). Acionando Groq...
+2025-12-22 10:45:40.484 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:45:42.689 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 10:45:42.689 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 31 restantes)
+2025-12-22 10:45:42.707 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:45:42.708 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:48:10.286 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:48:42.711 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:48:42.992 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.198982621s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]). Acionando Groq...
+2025-12-22 10:48:43.731 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:48:45.888 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 10:48:45.889 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 30 restantes)
+2025-12-22 10:48:46.709 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:48:46.709 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:51:08.765 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:51:46.717 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 10:51:46.994 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 12.195519206s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 12
+}
+]). Acionando Groq...
+2025-12-22 10:51:47.520 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 10:51:50.934 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:51:50.935 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 29 restantes)
+2025-12-22 10:51:50.949 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:51:51.950 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:52:52.326 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:52:53.956 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 10:52:54.559 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 30
+2025-12-22 10:54:51.954 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:54:52.240 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 6.955675683s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 6
+}
+]). Acionando Groq...
+2025-12-22 10:54:52.857 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:54:54.810 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 10:54:54.979 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 30
+2025-12-22 10:54:55.114 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 10:54:55.115 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 30 restantes)
+2025-12-22 10:54:55.903 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 10:54:56.906 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:56:10.428 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:56:10.929 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 10:56:11.524 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 31
+2025-12-22 10:56:14.002 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 10:56:14.638 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 32
+2025-12-22 10:57:10.664 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 10:57:56.911 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 10:57:57.189 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 1.999109241s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 1
+}
+]). Acionando Groq...
+2025-12-22 10:57:58.213 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 10:58:00.420 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 10:58:00.420 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 31 restantes)
+2025-12-22 10:58:00.437 | WARNING  | __main__:trabalhador_da_fila:115 - 🐦 Erro Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-22 10:58:00.437 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 10:58:09.900 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:00:10.347 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:01:00.448 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:01:00.731 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.459612456s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]). Acionando Groq...
+2025-12-22 11:01:01.376 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:01:03.988 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:01:03.988 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 30 restantes)
+2025-12-22 11:01:04.678 | SUCCESS  | __main__:trabalhador_da_fila:108 - 🐦 Tweet enviado!
+2025-12-22 11:01:05.682 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:01:09.639 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:01:10.067 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:01:11.895 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:01:13.476 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 31
+2025-12-22 11:02:10.704 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:02:11.026 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 32
+2025-12-22 11:02:11.365 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: CENTAURO
+2025-12-22 11:02:12.571 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 33
+2025-12-22 11:02:12.575 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:02:13.281 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 34
+2025-12-22 11:03:10.411 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:04:05.686 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:04:05.970 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.217966498s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]). Acionando Groq...
+2025-12-22 11:04:06.495 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:04:10.470 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:04:10.568 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:04:10.926 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 34
+2025-12-22 11:04:21.003 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:04:21.003 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 34 restantes)
+2025-12-22 11:04:22.011 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:07:10.473 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:07:22.015 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: NETSHOES...
+2025-12-22 11:07:22.302 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.886364479s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 36
+}
+]). Acionando Groq...
+2025-12-22 11:07:22.896 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: NETSHOES
+2025-12-22 11:07:27.177 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:07:27.178 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 33 restantes)
+2025-12-22 11:07:28.186 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:07:49.853 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 11:10:10.745 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:10:28.190 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:10:29.826 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.359990516s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]). Acionando Groq...
+2025-12-22 11:10:30.445 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:10:32.434 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:10:32.434 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 32 restantes)
+2025-12-22 11:10:33.439 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:11:11.995 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:11:12.315 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:11:12.593 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 33
+2025-12-22 11:11:12.656 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 34
+2025-12-22 11:11:14.461 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:11:15.254 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 35
+2025-12-22 11:11:15.256 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:11:15.747 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 36
+2025-12-22 11:13:10.673 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:13:10.763 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:13:12.636 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:13:12.964 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:13:33.444 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:13:33.724 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.46361651s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]). Acionando Groq...
+2025-12-22 11:13:34.358 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:13:36.664 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:13:36.665 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 11:13:37.677 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:14:10.732 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:14:11.081 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:15:10.636 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:15:10.656 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 11:15:11.233 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:16:10.037 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:16:10.792 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:16:37.682 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:16:37.957 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.223064755s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 21
+}
+]). Acionando Groq...
+2025-12-22 11:16:38.571 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:16:41.530 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:16:41.530 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 11:16:42.540 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:17:10.475 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:17:11.068 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:18:10.502 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 11:19:10.675 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:19:42.545 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:19:42.829 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.354039839s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]). Acionando Groq...
+2025-12-22 11:19:43.399 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:19:45.601 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:19:45.601 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 11:19:46.607 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:20:10.955 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:20:11.209 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:22:46.612 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:22:46.909 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 12.278830027s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 12
+}
+]). Acionando Groq...
+2025-12-22 11:22:47.496 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:22:49.676 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:22:49.677 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 11:22:50.690 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:24:10.596 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:25:12.908 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:25:13.670 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:25:50.694 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:25:50.974 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.21288624s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 8
+}
+]). Acionando Groq...
+2025-12-22 11:25:51.577 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:25:54.049 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:25:54.049 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 11:25:55.052 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:26:10.832 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:27:10.953 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:27:11.292 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:28:12.524 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:28:12.871 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:28:41.484 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:28:55.057 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:28:55.335 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.846904829s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 3
+}
+]). Acionando Groq...
+2025-12-22 11:28:55.864 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:28:57.849 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:28:57.849 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 11:28:58.853 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:30:11.043 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:30:11.567 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:31:10.056 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:31:53.499 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:31:58.857 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:31:59.142 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 44.95572ms. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+}
+]). Acionando Groq...
+2025-12-22 11:31:59.712 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:32:02.095 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:32:02.096 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 11:32:03.106 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:35:03.112 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:35:03.416 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.75594925s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]). Acionando Groq...
+2025-12-22 11:35:04.003 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:35:07.280 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:35:07.281 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 11:35:08.292 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:35:11.043 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:37:10.953 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:37:12.697 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:37:13.291 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:38:08.296 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:38:08.581 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.598180101s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]). Acionando Groq...
+2025-12-22 11:38:09.051 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:38:11.252 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:38:11.252 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 11:38:12.254 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:39:12.489 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:39:13.253 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 11:40:11.015 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:40:12.014 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:41:11.325 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:41:11.904 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:41:12.260 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:41:12.640 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:41:12.647 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.532995483s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 46
+}
+]). Acionando Groq...
+2025-12-22 11:41:13.433 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:41:13.838 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 11:41:14.655 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:41:15.221 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 39
+2025-12-22 11:41:16.071 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:41:16.071 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 39 restantes)
+2025-12-22 11:41:17.087 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:41:17.566 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:41:18.139 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 40
+2025-12-22 11:41:20.596 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:41:21.163 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 41
+2025-12-22 11:42:11.072 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:42:11.252 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:42:11.410 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:42:11.567 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 42
+2025-12-22 11:42:12.087 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 43
+2025-12-22 11:42:20.519 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:42:21.084 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 44
+2025-12-22 11:42:28.063 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:42:28.616 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 45
+2025-12-22 11:44:11.198 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:44:12.117 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:44:12.635 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 46
+2025-12-22 11:44:17.101 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:44:17.373 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.803431318s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 41
+}
+]). Acionando Groq...
+2025-12-22 11:44:17.841 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:44:19.819 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:44:19.819 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 45 restantes)
+2025-12-22 11:44:20.820 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:46:10.437 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:46:12.341 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:47:11.246 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 11:47:11.810 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 46
+2025-12-22 11:47:20.824 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:47:21.107 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 38.077067689s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 38
+}
+]). Acionando Groq...
+2025-12-22 11:47:21.628 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:47:23.584 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:47:23.585 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 45 restantes)
+2025-12-22 11:47:24.589 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:48:11.513 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:48:12.529 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 46
+2025-12-22 11:49:11.289 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 11:49:11.359 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:50:24.594 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 11:50:24.868 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.304056575s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 34
+}
+]). Acionando Groq...
+2025-12-22 11:50:25.480 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 11:50:28.006 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:50:28.007 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 45 restantes)
+2025-12-22 11:50:29.015 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:51:11.421 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:52:11.362 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:52:11.970 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 46
+2025-12-22 11:53:11.300 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:53:11.566 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 11:53:11.897 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 47
+2025-12-22 11:53:29.021 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:53:29.299 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.879748985s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 29
+}
+]). Acionando Groq...
+2025-12-22 11:53:30.011 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:53:32.246 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 11:53:32.246 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 46 restantes)
+2025-12-22 11:53:32.247 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:54:11.259 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: MAGALU
+2025-12-22 11:54:11.755 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 47
+2025-12-22 11:56:11.606 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:56:32.259 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:56:32.537 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 26.637732668s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 26
+}
+]). Acionando Groq...
+2025-12-22 11:56:33.082 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:56:35.319 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 11:56:35.319 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 46 restantes)
+2025-12-22 11:56:35.320 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 11:57:11.512 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 11:58:11.622 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 11:58:15.093 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:58:16.176 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 47
+2025-12-22 11:58:19.260 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 11:58:20.358 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 48
+2025-12-22 11:59:35.326 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 11:59:35.610 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.560339493s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]). Acionando Groq...
+2025-12-22 11:59:36.169 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 11:59:37.225 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 11:59:37.225 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 47 restantes)
+2025-12-22 11:59:38.231 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:00:11.412 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:02:11.809 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:02:11.859 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:02:38.236 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 12:02:38.518 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.657591648s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 20
+}
+]). Acionando Groq...
+2025-12-22 12:02:39.009 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 12:02:41.863 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:02:41.863 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 46 restantes)
+2025-12-22 12:02:42.875 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:03:11.915 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:03:12.089 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 47
+2025-12-22 12:05:11.515 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:05:42.880 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 12:05:43.161 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.012322225s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 16
+}
+]). Acionando Groq...
+2025-12-22 12:05:43.639 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 12:05:45.866 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 12:05:45.867 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 46 restantes)
+2025-12-22 12:05:45.867 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:06:11.113 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:07:11.656 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:08:45.868 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 12:08:46.144 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 13.025816277s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 13
+}
+]). Acionando Groq...
+2025-12-22 12:08:46.742 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 12:08:48.993 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 12:08:48.993 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 45 restantes)
+2025-12-22 12:08:48.994 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:09:11.561 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:11:48.997 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:11:49.285 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.8900635s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 9
+}
+]). Acionando Groq...
+2025-12-22 12:11:49.809 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:11:52.304 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:11:52.305 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 44 restantes)
+2025-12-22 12:11:53.309 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:12:11.938 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:14:11.647 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:14:53.313 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:14:53.602 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 5.575166604s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 5
+}
+]). Acionando Groq...
+2025-12-22 12:14:54.217 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:14:59.826 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 12:14:59.826 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 43 restantes)
+2025-12-22 12:14:59.826 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:16:12.451 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:16:12.893 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 44
+2025-12-22 12:17:59.832 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 12:18:00.112 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.057891846s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]). Acionando Groq...
+2025-12-22 12:18:00.641 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 12:18:03.794 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:18:03.794 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 43 restantes)
+2025-12-22 12:18:04.800 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:20:10.156 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:21:04.804 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: SHOPEE...
+2025-12-22 12:21:05.081 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 54.090236803s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 54
+}
+]). Acionando Groq...
+2025-12-22 12:21:05.668 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: SHOPEE
+2025-12-22 12:21:07.995 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 12:21:07.995 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 42 restantes)
+2025-12-22 12:21:07.995 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:21:11.978 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:21:12.475 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 43
+2025-12-22 12:24:08.011 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:24:08.292 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.876130617s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]). Acionando Groq...
+2025-12-22 12:24:08.855 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:24:11.457 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:24:11.457 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 42 restantes)
+2025-12-22 12:24:12.463 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:27:12.467 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: ALIEXPRESS...
+2025-12-22 12:27:12.751 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.41556227s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 46
+}
+]). Acionando Groq...
+2025-12-22 12:27:13.358 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: ALIEXPRESS
+2025-12-22 12:27:15.062 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:27:15.062 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 41 restantes)
+2025-12-22 12:27:16.065 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:28:12.091 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:28:12.262 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 42
+2025-12-22 12:30:16.069 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: ALIEXPRESS...
+2025-12-22 12:30:16.357 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.813733635s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 42
+}
+]). Acionando Groq...
+2025-12-22 12:30:16.907 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: ALIEXPRESS
+2025-12-22 12:30:19.479 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:30:19.479 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 41 restantes)
+2025-12-22 12:30:20.490 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:33:20.495 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: ALIEXPRESS...
+2025-12-22 12:33:20.773 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 38.393494917s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 38
+}
+]). Acionando Groq...
+2025-12-22 12:33:21.311 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: ALIEXPRESS
+2025-12-22 12:33:25.838 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:83 - 📱 Texto Simples enviado para 120363422860849054@g.us
+2025-12-22 12:33:25.839 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 40 restantes)
+2025-12-22 12:33:25.839 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:36:12.180 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:36:13.867 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 41
+2025-12-22 12:36:25.853 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: ALIEXPRESS...
+2025-12-22 12:36:26.132 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 33.037198574s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 33
+}
+]). Acionando Groq...
+2025-12-22 12:36:26.614 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: ALIEXPRESS
+2025-12-22 12:36:30.520 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:36:30.520 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 40 restantes)
+2025-12-22 12:36:31.524 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:39:12.577 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:39:12.888 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 41
+2025-12-22 12:39:31.528 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:39:31.798 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.364922606s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 27
+}
+]). Acionando Groq...
+2025-12-22 12:39:32.447 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:39:34.262 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:39:34.263 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 40 restantes)
+2025-12-22 12:39:35.268 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:40:12.286 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 12:40:12.407 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:41:07.736 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:41:08.670 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 41
+2025-12-22 12:42:35.272 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: CENTAURO...
+2025-12-22 12:42:35.544 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.616459502s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]). Acionando Groq...
+2025-12-22 12:42:36.255 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: CENTAURO
+2025-12-22 12:42:39.401 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:42:39.401 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 40 restantes)
+2025-12-22 12:42:40.402 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:43:12.233 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: MERCADO LIVRE
+2025-12-22 12:45:40.407 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:45:47.176 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:45:50.231 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:45:50.231 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 39 restantes)
+2025-12-22 12:45:51.232 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:48:51.237 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:48:51.518 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 7.648266281s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 7
+}
+]). Acionando Groq...
+2025-12-22 12:48:52.095 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:48:54.919 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:48:54.919 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 38 restantes)
+2025-12-22 12:48:55.926 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:51:55.933 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:51:56.211 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.957173138s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]). Acionando Groq...
+2025-12-22 12:51:56.914 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:51:59.464 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:51:59.465 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 12:52:00.478 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:53:12.392 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:53:13.217 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 12:55:00.483 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:55:00.770 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.396419424s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]). Acionando Groq...
+2025-12-22 12:55:01.367 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:55:04.310 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:55:04.311 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 12:55:05.318 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 12:57:12.153 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 12:57:13.003 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 12:57:32.868 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 12:58:05.323 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 12:58:05.594 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.563247576s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]). Acionando Groq...
+2025-12-22 12:58:06.202 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 12:58:08.672 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 12:58:08.672 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 37 restantes)
+2025-12-22 12:58:09.674 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 13:01:09.680 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: AMAZON...
+2025-12-22 13:01:09.957 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.203784286s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]). Acionando Groq...
+2025-12-22 13:01:10.551 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: AMAZON
+2025-12-22 13:01:11.149 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 13:01:11.568 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 13:01:13.002 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: SHOPEE
+2025-12-22 13:01:13.229 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 13:01:13.230 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 36 restantes)
+2025-12-22 13:01:14.240 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...
+2025-12-22 13:01:14.639 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 37
+2025-12-22 13:01:15.879 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: ALIEXPRESS
+2025-12-22 13:01:16.136 | WARNING  | __main__:processar_oferta:150 - 🚫 Bloqueado: None
+2025-12-22 13:01:16.706 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 38
+2025-12-22 13:03:12.933 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 13:03:13.240 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 39
+2025-12-22 13:04:14.255 | INFO     | __main__:trabalhador_da_fila:81 - 🤖 Gerando legenda 'Vendedor Agressivo' para: ALIEXPRESS...
+2025-12-22 13:04:14.493 | INFO     | __main__:processar_oferta:153 - 🔎 Captado: AMAZON
+2025-12-22 13:04:14.525 | WARNING  | src.core.ai_brain:gerar_legenda:43 - ⚠️ Gemini falhou/cota cheia (429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 44.628196169s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 44
+}
+]). Acionando Groq...
+2025-12-22 13:04:15.144 | INFO     | __main__:trabalhador_da_fila:88 - 🚀 Enviando oferta processada: ALIEXPRESS
+2025-12-22 13:04:15.530 | INFO     | __main__:processar_oferta:171 - 📥 Adicionado à fila. Posição: 39
+2025-12-22 13:04:17.260 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:53 - ✅ Mídia enviada (/send/media) para 120363422860849054@g.us
+2025-12-22 13:04:17.261 | SUCCESS  | __main__:trabalhador_da_fila:94 - 📱 WhatsApp OK! (Fila: 39 restantes)
+2025-12-22 13:04:18.267 | INFO     | __main__:trabalhador_da_fila:131 - ⏳ Aguardando 3 minutos para a próxima...

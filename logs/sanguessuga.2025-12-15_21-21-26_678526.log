@@ -1,0 +1,1299 @@
+2025-12-15 21:21:26.679 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-15 21:21:27.126 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-15 21:21:27.127 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-15 21:22:17.248 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-15 21:22:18.437 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-15 21:22:18.586 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-15 21:22:18.873 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-15 21:22:19.344 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-15 21:22:19.497 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 11 canais válidos.
+2025-12-15 21:23:39.711 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:23:40.360 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:23:46.195 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:29 - ✅ Postado no WhatsApp com sucesso!
+2025-12-15 21:23:46.197 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Celular-Samsun...
+2025-12-15 21:23:47.127 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (1/15)
+2025-12-15 21:23:47.132 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:29 - ✅ Postado no WhatsApp com sucesso!
+2025-12-15 21:23:47.132 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B07D5QHZ9M?...
+2025-12-15 21:23:47.421 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (2/15)
+2025-12-15 21:24:10.606 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/mousepad-gamer-profissional-90x40-cm-desk-pad-alta-qualidade
+2025-12-15 21:24:12.447 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-15 21:24:45.324 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:24:49.651 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:29 - ✅ Postado no WhatsApp com sucesso!
+2025-12-15 21:24:49.654 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0B3BC2FX3?...
+2025-12-15 21:24:49.940 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (3/15)
+2025-12-15 21:26:12.374 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 21:27:30.775 | INFO     | __main__:<module>:147 - 🚫 Bot desligado manualmente.
+2025-12-15 21:27:35.031 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-15 21:27:35.612 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-15 21:27:35.659 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-15 21:27:36.642 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-15 21:27:36.788 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-15 21:27:37.008 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-15 21:27:37.155 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-15 21:27:37.298 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-15 21:27:37.298 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 11 canais válidos.
+2025-12-15 21:27:44.871 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:27:45.141 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 21:27:47.720 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-15 21:27:47.721 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0B3BC2FX3?...
+2025-12-15 21:27:48.401 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 403 Forbidden
+You are not allowed to create a Tweet with duplicate content.
+2025-12-15 21:28:37.508 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 21:28:37.548 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 21:29:37.571 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 21:30:37.489 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 21:35:37.730 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 21:39:38.178 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 21:42:26.634 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B3BC2FX3
+2025-12-15 21:42:26.812 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B3BC2FX3
+2025-12-15 21:42:27.692 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B3BC2FX3
+2025-12-15 21:42:28.482 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B3BC2FX3
+2025-12-15 21:42:30.042 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B3BC2FX3
+2025-12-15 21:43:02.039 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:43:03.472 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-15 21:43:03.473 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-15 21:43:25.253 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=None)
+2025-12-15 21:43:25.597 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-15 21:43:26.737 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-15 21:43:26.738 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-15 21:43:27.575 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (1/15)
+2025-12-15 21:45:37.858 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 21:48:38.202 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-carregador-veicular-turbo-60w-usb-c-automotivo-usb-carro-preto
+2025-12-15 21:48:40.617 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-15 21:55:38.231 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 21:57:38.063 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 22:00:38.341 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-15 22:00:38.419 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/chuteira-futsal-nike-beco-2-adulto
+2025-12-15 22:00:39.853 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-15 22:02:38.359 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/moto-serra-profissional-eletrica-motosserra-eletrosserra
+2025-12-15 22:02:39.753 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-15 22:03:38.483 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-15 22:04:38.412 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/v-floc-500ml-shampoo-automotivo-neutro-concentrado-vonixx
+2025-12-15 22:04:40.068 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 06:44:49.330 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-16 06:44:49.656 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-16 06:44:49.657 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-16 06:44:50.636 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-16 06:44:50.776 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-16 06:44:50.921 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-16 06:44:51.064 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-16 06:44:51.205 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-16 06:44:51.205 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 11 canais válidos.
+2025-12-16 07:00:52.179 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 07:00:59.310 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 07:00:59.310 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0CMYGGQL6?...
+2025-12-16 07:00:59.948 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (1/15)
+2025-12-16 07:10:52.479 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:15:52.393 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:23:53.555 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://pt.aliexpress.com/item/1005007525724006.html
+2025-12-16 07:25:52.509 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:30:34.974 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:35:21.110 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:37:53.357 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://shopee.com.br/m/cupom-de-desconto
+2025-12-16 07:37:54.734 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://shopee.com.br/Celular-Xiaomi-POCO-C85-4G-Tela-LCD-6.9-C%C3%A2mera-50MP-Vers%C3%A3o-Global-Original-i.287459314.23798830104
+2025-12-16 07:40:12.027 | INFO     | __main__:<module>:147 - 🚫 Bot desligado manualmente.
+2025-12-16 07:40:17.768 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-16 07:40:18.092 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-16 07:40:18.092 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-16 07:40:19.084 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-16 07:40:19.229 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-16 07:40:19.370 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-16 07:40:19.509 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-16 07:40:19.647 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-16 07:40:19.647 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 11 canais válidos.
+2025-12-16 07:45:24.064 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:55:57.167 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 07:59:00.644 | INFO     | __main__:<module>:147 - 🚫 Bot desligado manualmente.
+2025-12-16 07:59:03.715 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-16 07:59:04.032 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-16 07:59:04.033 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-16 07:59:05.326 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-16 07:59:05.327 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @grupo_promocoes@promosdodia -> IGNORADO.
+2025-12-16 07:59:05.492 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-16 07:59:05.635 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-16 07:59:05.775 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-16 07:59:05.916 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-16 07:59:05.916 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 10 canais válidos.
+2025-12-16 07:59:18.778 | INFO     | __main__:<module>:147 - 🚫 Bot desligado manualmente.
+2025-12-16 07:59:21.366 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-16 07:59:21.675 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-16 07:59:21.675 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-16 07:59:22.659 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-16 07:59:22.796 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-16 07:59:22.937 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-16 07:59:23.122 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-16 07:59:23.289 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-16 07:59:23.289 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 12 canais válidos.
+2025-12-16 07:59:43.126 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 07:59:43.127 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 07:59:43.457 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 07:59:43.457 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 07:59:47.126 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 07:59:47.126 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/gp/product/B0D...
+2025-12-16 07:59:47.727 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (1/15)
+2025-12-16 07:59:49.091 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 07:59:49.092 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Curcuma-Plus-C...
+2025-12-16 07:59:49.273 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 403 Forbidden
+You are not allowed to create a Tweet with duplicate content.
+2025-12-16 08:00:00.094 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:00:00.094 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:00:04.877 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:00:04.877 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0CQRYH9MP?...
+2025-12-16 08:00:05.169 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (2/15)
+2025-12-16 08:00:08.861 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:00:08.861 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:00:13.748 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:00:13.748 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Permanente-Pro...
+2025-12-16 08:00:14.048 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (3/15)
+2025-12-16 08:00:23.412 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 08:02:20.250 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:02:20.250 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:02:25.375 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:02:25.376 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0FDBJZ8DF?...
+2025-12-16 08:02:25.649 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (4/15)
+2025-12-16 08:04:59.836 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 08:05:42.196 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:05:42.196 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:05:47.585 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:05:47.586 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0B75913TP?...
+2025-12-16 08:05:47.602 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:09:23.663 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:09:23.663 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:09:25.406 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://m.dafiti.com.br/Tenis-Puma--180-Bege-14504863.html
+2025-12-16 08:09:29.838 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:09:29.838 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Vitafor-Creati...
+2025-12-16 08:09:30.430 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (5/15)
+2025-12-16 08:10:23.659 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 08:13:23.468 | ERROR    | src.core.link_router:processar:65 - Erro ao processar link Amazon: 'Settings' object has no attribute 'MINHA_TAG_AMAZON'
+2025-12-16 08:13:23.468 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:13:28.981 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:13:28.982 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Soft99-10308-G...
+2025-12-16 08:13:28.997 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:14:38.736 | INFO     | __main__:<module>:147 - 🚫 Bot desligado manualmente.
+2025-12-16 08:14:42.746 | INFO     | __main__:<module>:20 - 🐭 INICIANDO O RATO GARIMPEIRO ENTERPRISE (Modo AMAZON/WHATSAPP)...
+2025-12-16 08:14:43.068 | SUCCESS  | __main__:<module>:26 - ✅ Sistemas Core iniciados!
+2025-12-16 08:14:43.069 | SUCCESS  | __main__:<module>:38 - 🐦 Twitter/X Conectado com sucesso!
+2025-12-16 08:14:44.063 | INFO     | __main__:main:127 - 👀 Validando canais fonte (Este passo pode demorar alguns segundos)...
+2025-12-16 08:14:44.923 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @tecdicas -> IGNORADO.
+2025-12-16 08:14:45.067 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasdevideo -> IGNORADO.
+2025-12-16 08:14:45.346 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @ofertasparacasa -> IGNORADO.
+2025-12-16 08:14:45.485 | ERROR    | __main__:resolve_safe_channels:58 - ❌ Canal inválido ou não existente: @livrosepromocao -> IGNORADO.
+2025-12-16 08:14:45.485 | SUCCESS  | __main__:main:137 - ✅ Monitoramento iniciado com 21 canais válidos.
+2025-12-16 08:14:54.525 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:14:59.592 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:14:59.593 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B09GJFFK5H?...
+2025-12-16 08:15:00.260 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (1/15)
+2025-12-16 08:15:44.795 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 08:17:27.652 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:17:31.773 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:17:31.773 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/gp/product/B0D...
+2025-12-16 08:17:31.789 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:20:44.341 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/tenis-adidas-response-runner-7440
+2025-12-16 08:20:44.770 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/grupos/
+2025-12-16 08:20:45.127 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:20:45.195 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:20:48.990 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:20:48.990 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B084PTHV5W?...
+2025-12-16 08:20:49.595 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (2/15)
+2025-12-16 08:20:49.597 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:20:49.597 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Coca-Cola-sem-...
+2025-12-16 08:20:49.879 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (3/15)
+2025-12-16 08:23:44.934 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:23:45.037 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 08:23:50.230 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:23:50.231 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/gp/product/B07...
+2025-12-16 08:23:50.246 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:25:44.896 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 08:25:45.178 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:25:50.711 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:25:50.711 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Carrapatos-Int...
+2025-12-16 08:25:51.322 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (4/15)
+2025-12-16 08:26:45.058 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:26:46.535 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:26:48.849 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:26:48.849 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B07XGM1BM7?...
+2025-12-16 08:26:49.141 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (5/15)
+2025-12-16 08:26:51.207 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:26:51.208 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0FDBJZ8DF?...
+2025-12-16 08:26:51.491 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (6/15)
+2025-12-16 08:27:46.767 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B07XGM1BM7
+2025-12-16 08:27:49.144 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 08:30:08.326 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:30:13.542 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:30:13.543 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0C4CF2F67?...
+2025-12-16 08:30:13.557 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:30:45.005 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 08:31:44.977 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:31:50.347 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:31:50.348 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Cozinha-Vermel...
+2025-12-16 08:31:50.947 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (7/15)
+2025-12-16 08:32:28.320 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:32:33.421 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:32:33.422 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0B1379VWF?...
+2025-12-16 08:32:33.704 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (8/15)
+2025-12-16 08:33:46.996 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:33:47.158 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:33:52.500 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:33:52.500 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B075TGQVHT?...
+2025-12-16 08:33:52.788 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (9/15)
+2025-12-16 08:33:52.910 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:33:52.911 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/Whey-100-Hd-Re...
+2025-12-16 08:33:53.211 | SUCCESS  | __main__:processar_oferta:117 - 🐦 Postado no X (10/15)
+2025-12-16 08:33:57.110 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 08:34:46.686 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:34:50.567 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:34:50.567 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/gp/product/B0C...
+2025-12-16 08:34:50.731 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:35:45.556 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:35:51.187 | SUCCESS  | src.infrastructure.whatsapp_client:enviar_oferta:30 - ✅ Postado no WhatsApp com sucesso!
+2025-12-16 08:35:51.188 | SUCCESS  | __main__:processar_oferta:102 - 📱 Oferta AMAZON enviada para seu WhatsApp: https://www.amazon.com.br/dp/B0BP2TGK6W?...
+2025-12-16 08:35:51.369 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:38:45.167 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/gp/product/B0C7DLQYWS
+2025-12-16 08:39:45.085 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:39:45.294 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:39:45.399 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:39:46.589 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:39:46.589 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:39:46.653 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:39:46.653 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:39:46.657 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:39:46.657 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:39:46.766 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:39:47.282 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:39:47.443 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:41:45.012 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/Coca-Cola-sem-A%C3%A7%C3%BAcar-Lt-350Ml/dp/B09JZBTWV1
+2025-12-16 08:42:45.283 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/78fd1c9a
+2025-12-16 08:42:45.489 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:42:46.403 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:42:46.404 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:42:46.580 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:44:55.072 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:44:56.064 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:44:56.065 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:44:56.706 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:45:45.413 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:45:46.580 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:45:46.581 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:45:46.908 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:49:42.197 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://r.amzlink.to/
+2025-12-16 08:49:43.300 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/Coca-Cola-sem-A%C3%A7%C3%BAcar-Lt-350Ml/dp/B09JZBTWV1
+2025-12-16 08:50:19.082 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:50:20.121 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:50:20.121 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:50:20.297 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 08:55:47.232 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:55:47.575 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 08:55:48.654 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:55:48.655 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:55:48.672 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 08:55:48.672 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 08:55:49.267 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:55:49.431 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 08:59:09.926 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:00:45.426 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/hd-externo-wd-elements-5tb-usb-30-preto-17e3
+2025-12-16 09:00:45.746 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:00:45.748 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:00:45.841 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 09:00:45.886 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/notebook-inspiron-15-i3-100u-windows-11-home-512gb-ssd-8gb-ram
+2025-12-16 09:00:46.063 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/ofertas
+2025-12-16 09:00:46.793 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:00:46.793 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:00:46.974 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 09:00:47.524 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:02:28.516 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:02:45.220 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip/lists
+2025-12-16 09:02:46.202 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-o-boticario/
+2025-12-16 09:03:45.461 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 09:03:45.602 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:03:45.636 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:03:45.891 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/mesprom/lists/01ccc7c4-2d45-47bd-a55f-0842f2334008
+2025-12-16 09:04:45.422 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/xetdaspromocoes/lists/79c9d38b-3316-4d89-aefc-04fc724a70e1
+2025-12-16 09:04:45.505 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/ro20251028090844/lists/002e8a24-f080-44ce-b802-6b3862d97fa9
+2025-12-16 09:04:45.630 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/agenciarice/lists/c3e8264e-c140-4566-aa77-dd1ead996cb7
+2025-12-16 09:04:45.683 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/motorola-moto-g15-grafite-256gb-12gb
+2025-12-16 09:04:47.074 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:04:47.460 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:04:48.416 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:04:48.416 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:04:49.051 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:04:49.999 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:04:54.768 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://produto.mercadolivre.com.br/MLB-5275458894-suporte-celular-veicular-carro-ventosa-automatico-painel-_JM
+2025-12-16 09:05:45.363 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B09BXKDPR2
+2025-12-16 09:05:47.620 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B09BXKDPR2
+2025-12-16 09:06:45.698 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:06:45.713 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 09:07:45.713 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 09:07:45.771 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:07:45.790 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/console-sony-playstation-5-edicao-digital-ssd-825gb-controle-sem-fio-dualsense-2-jogos-digitais
+2025-12-16 09:07:46.617 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://t.me/TJGOFERTASs
+2025-12-16 09:07:47.083 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:07:47.114 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:07:47.718 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://t.me/PROMOSGERAISTJ
+2025-12-16 09:07:47.943 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:07:47.944 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:07:48.115 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 09:07:48.643 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 09:08:45.512 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 09:08:45.691 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:08:46.204 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/TJGOFERTASs
+2025-12-16 09:08:47.079 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/PROMOSGERAISTJ
+2025-12-16 09:08:47.760 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 09:09:45.675 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:09:46.816 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:09:46.816 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:09:47.433 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:10:45.550 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:10:45.731 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:10:45.827 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:10:45.977 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:11:45.693 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:11:46.186 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:11:46.991 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:12:45.577 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:12:45.683 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:12:46.797 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:12:46.798 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:12:46.965 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 09:13:45.690 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:13:45.814 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU3641153131
+2025-12-16 09:13:46.009 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/robo-aspirador-de-po-wap-robot-w4000-com-base-autolimpante-mapeamento-e-2-mops-giratorios-127v
+2025-12-16 09:13:46.979 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://kabum.onelink.me/civn
+2025-12-16 09:13:47.671 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:14:45.382 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/e5bb5e60
+2025-12-16 09:14:46.073 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:14:47.821 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/Coca-Cola-sem-A%C3%A7%C3%BAcar-Lt-350Ml/dp/B09JZBTWV1
+2025-12-16 09:15:45.684 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://s.shopee.com.br/40RxcgvVPk
+2025-12-16 09:15:45.734 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:15:46.001 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/conjunto-c-6-prato-raso-coelha-agnes
+2025-12-16 09:15:47.366 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:15:47.368 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0F1QM7NHQ
+2025-12-16 09:16:45.765 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:16:45.817 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:16:45.889 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:16:45.993 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 09:16:46.906 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/TJGOFERTASs
+2025-12-16 09:16:47.790 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/PROMOSGERAISTJ
+2025-12-16 09:16:48.614 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 09:17:29.652 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonmica-com-apoio-lombar-e-apoio-de-cabeca-preta-com-estofado-de-mesh/p/MLB29739623
+2025-12-16 09:17:30.286 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:17:31.155 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:17:31.156 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:17:31.765 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:18:45.695 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0F1QM7NHQ
+2025-12-16 09:18:46.007 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/celular-realme-c63-dual-sim-256-gb-cor-leather-blue-6-gb-ram
+2025-12-16 09:18:46.165 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:18:46.215 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:18:47.185 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:18:47.185 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:18:47.503 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:18:47.507 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:19:45.932 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/a5b9bc4c
+2025-12-16 09:19:46.073 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:19:46.380 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://validate.perfdrive.com/ca4df1c7abf7ea2cc50ab30bdf7ed2bb/
+2025-12-16 09:20:45.793 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-6-pares-de-meia-esportiva-hanes-cano-curto-5186-branco-unico
+2025-12-16 09:20:45.797 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:20:45.838 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:20:45.879 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promotop/lists
+2025-12-16 09:20:47.420 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:21:45.768 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MAGALU) ignorado: https://magazineluiza.onelink.me/589508454/v95gwsry
+2025-12-16 09:21:45.874 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:21:46.162 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 09:21:47.088 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/TJGOFERTASs
+2025-12-16 09:21:48.017 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/PROMOSGERAISTJ
+2025-12-16 09:21:48.841 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 09:22:45.898 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/aspirador-de-po-dcl180z-makita-com-carregador-e-bateria-cor-azul
+2025-12-16 09:22:46.121 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:22:47.257 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:22:47.475 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:22:48.407 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:22:48.407 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:22:48.588 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 09:23:46.151 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:23:46.201 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:23:46.576 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 09:24:45.983 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:25:45.771 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/
+2025-12-16 09:25:46.049 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 09:25:46.060 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:25:46.072 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/monitor-gamer-philips-24-evnia-ips-180hz-05ms-cor-preto
+2025-12-16 09:25:46.394 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU3628807982
+2025-12-16 09:25:47.494 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:26:46.075 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:26:46.121 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:26:46.444 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://validate.perfdrive.com/ca4df1c7abf7ea2cc50ab30bdf7ed2bb/
+2025-12-16 09:27:46.186 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:27:46.237 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:27:46.265 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/aspirador-de-po-makita-cl106-com-2-baterias-e-carregador-biv-cor-branco
+2025-12-16 09:27:46.978 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:27:48.046 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:28:46.103 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 09:28:46.120 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:28:46.300 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:28:46.753 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-mercado-livre/
+2025-12-16 09:29:45.981 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:30:45.922 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.magazinevoce.com.br/az-request-verify
+2025-12-16 09:30:46.159 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:30:46.320 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:30:46.685 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:30:46.858 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:31:46.116 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:31:46.157 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/a8f5c253
+2025-12-16 09:31:46.177 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://s.shopee.com.br/40RxcgvVPk
+2025-12-16 09:31:46.596 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://validate.perfdrive.com/ca4df1c7abf7ea2cc50ab30bdf7ed2bb/
+2025-12-16 09:31:47.172 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:31:47.172 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:31:47.801 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:33:46.341 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:33:46.473 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:33:46.494 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/power-bank-20000mah-carregador-portatil-carga-rapida-225w-turbo-usb-c-tipo-c
+2025-12-16 09:33:47.849 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:33:48.082 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:35:46.145 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 09:35:46.293 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:35:46.310 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:35:46.674 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/oui-scapin-245
+2025-12-16 09:35:46.915 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:35:47.018 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:35:47.039 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:35:48.048 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:35:48.379 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:35:49.026 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:35:49.027 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:35:49.208 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 09:36:46.322 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:36:46.889 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:36:47.025 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:37:46.242 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:37:46.283 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:37:46.315 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:37:46.348 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/desobstruidora-de-alta-pressao-wap-combate-turbo-ultra-2600-com-motor-de-inducao-1700w
+2025-12-16 09:37:47.893 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:38:46.234 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:38:46.240 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:38:46.241 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:38:46.452 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:38:46.847 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:38:47.299 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:38:47.444 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:39:46.112 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/
+2025-12-16 09:39:46.324 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:39:46.357 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:40:46.142 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/cupom-mercado-livre-15porcento-off-em-rdollar-79-limitado-a-rdollar-70-off-f961
+2025-12-16 09:40:46.343 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:40:46.400 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:40:46.513 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:40:46.546 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 09:40:46.565 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/jogo-horizon-zero-dawn
+2025-12-16 09:40:48.521 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:41:51.687 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:42:46.275 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:42:46.372 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 09:42:46.864 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:42:47.092 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:42:47.261 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/TJGOFERTASs
+2025-12-16 09:42:47.998 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:42:48.192 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://t.me/PROMOSGERAISTJ
+2025-12-16 09:42:48.717 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 09:42:48.950 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:42:48.951 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:42:49.568 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:42:49.831 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 09:42:50.059 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 09:42:50.063 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 09:42:50.389 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 09:43:09.224 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:43:09.368 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/cafeteira-eletrica-elgin-15-xicaras-coffee-break-preta
+2025-12-16 09:43:11.096 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:43:47.069 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:44:45.804 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-3x-pre-treino-nuclear-rush-gel-30-saches-bodyaction
+2025-12-16 09:44:46.051 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:44:46.742 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 09:44:47.068 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:45:46.371 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:46:46.353 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:47:29.086 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:47:29.160 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:47:29.313 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:47:29.969 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/cadeira-de-escritorio-ergonomica-com-apoio-lombar-e-apoio-de-cabeca-preta-com-estofado-de-mesh
+2025-12-16 09:47:31.370 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:48:46.348 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:48:46.429 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:48:46.439 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:49:06.754 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:49:07.176 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-2-calcas-jeans-masculina-skinny-slim-com-elastano
+2025-12-16 09:49:08.802 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:49:46.339 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:50:08.961 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:50:09.415 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-fran-lover-gloss-labial-e-lapis-labial-by-franciny-ehlke
+2025-12-16 09:50:10.687 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:50:46.592 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 09:50:47.426 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-riachuelo/
+2025-12-16 09:51:46.462 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:51:46.591 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/alicate-crimpador-hidraulico-prensa-crimpa-terminal-4-a-70mm-laranja
+2025-12-16 09:51:46.610 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:51:48.326 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:52:48.474 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0C4CF2F67
+2025-12-16 09:53:47.169 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/samsung-galaxy-a05-dual-sim-128-gb-preto-4-gb-ram
+2025-12-16 09:53:51.460 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:54:46.484 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (NETSHOES) ignorado: https://www.netshoes.com.br/p/tenis-nike-big-low-masculino-branco+azul-JD8-9837-044
+2025-12-16 09:54:46.607 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-super-led-tech-one-12v-24v-h1-h4-h7-h8-h9-h11
+2025-12-16 09:54:47.121 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0B1379VWF
+2025-12-16 09:54:47.873 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:55:46.622 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 09:55:46.765 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 09:55:47.010 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-terabyte/
+2025-12-16 09:57:46.728 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 09:57:46.732 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:57:46.743 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:57:46.757 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 09:57:46.883 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/bolsa-bella-luz-da-lua
+2025-12-16 09:57:48.657 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 09:59:26.401 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 09:59:26.801 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:00:46.765 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:00:46.794 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/cupom-mercado-livre-20porcento-limitado-em-rdollar60-9998
+2025-12-16 10:00:46.979 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/jogo-silent-hill-f-steam
+2025-12-16 10:00:47.519 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 10:00:48.241 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0DMTTWH9S
+2025-12-16 10:00:48.275 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:00:48.352 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:00:48.352 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:01:07.715 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=None)
+2025-12-16 10:01:46.836 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:02:00.852 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:02:29.558 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/rasteira-de-borracha-santa-lolla-na-cor-verniz-preto
+2025-12-16 10:02:31.172 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:03:46.643 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:04:46.783 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/furadeira-de-impacto-profissional-13mm-cbrocas-e-bit-dobevi
+2025-12-16 10:04:48.034 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:05:46.847 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:07:47.516 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:07:47.541 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:07:48.831 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:07:49.763 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:07:49.764 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:07:50.370 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 10:08:01.732 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:08:04.096 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/pq20251002095509/lists
+2025-12-16 10:09:46.822 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:10:47.604 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:10:47.852 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:10:47.886 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:10:48.120 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:11:46.672 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:11:46.779 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:11:46.887 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:11:47.306 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:11:47.469 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:11:47.555 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:11:47.556 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:11:47.725 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 10:12:47.095 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/bundle-nintendo-switch-2-mario-kart-world
+2025-12-16 10:12:47.441 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:12:47.604 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:12:48.004 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 10:12:48.647 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:13:46.787 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:13:47.515 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:13:47.677 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:13:48.994 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:13:49.000 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:14:46.462 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:14:46.668 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/rasteira-feminina-papete-petit-jolie-confortavel-chinelo-leve-birken
+2025-12-16 10:14:46.724 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:14:47.561 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:14:47.653 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:14:48.236 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:14:49.034 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:15:46.844 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:15:46.929 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:15:47.590 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:15:47.597 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:16:46.966 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/auxiliar-de-partida-bateria-portatil-12v-carro-power-bank
+2025-12-16 10:16:47.000 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:16:48.591 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:17:29.456 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:17:46.780 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:18:46.884 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:18:47.051 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/carregador-apple-iphone-distribuidor-autorizado
+2025-12-16 10:18:47.681 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:18:48.217 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:18:48.342 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:18:49.177 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:18:49.309 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:18:49.309 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:18:49.948 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 10:18:50.986 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:18:51.883 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:18:51.883 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:18:52.303 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 10:19:47.268 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 10:20:46.302 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/hd-externo-1tb-usb-30-portatil-aitek-0c0a
+2025-12-16 10:20:46.706 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 10:20:46.903 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-4-shorts-duplo-2-em-1-masculino-plus-size-academia-uv
+2025-12-16 10:20:46.932 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0DHSVZB9C
+2025-12-16 10:20:47.053 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:20:48.546 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:21:46.307 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/controle-sem-fio-dualsense--edicao-limitada-do-30-aniversario/cmj8m1vv5000q9t0i8as5bmp7
+2025-12-16 10:21:46.983 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:21:47.016 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/7bda6ff7
+2025-12-16 10:22:46.910 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:22:47.054 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:22:47.087 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 10:22:48.048 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:22:48.049 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:22:48.234 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 10:22:50.655 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 10:23:46.945 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:24:47.274 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/tablet-positivo-vision-tab-7-processador-octa-core-3gb-ram-64gb-armazenamento-tela-7-ips-bateria-3100mah-android-14-go-wi-fi-preto
+2025-12-16 10:24:48.756 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/Carbono-Higiene-Pessoal-Cuidado-Aparelhos/dp/B0DR39GRHW
+2025-12-16 10:24:49.326 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:25:39.531 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:25:47.018 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:25:47.451 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 10:26:46.907 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:26:46.917 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:26:47.187 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/good-girl
+2025-12-16 10:26:49.220 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:27:46.971 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:27:47.048 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:27:47.521 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice/lists
+2025-12-16 10:27:47.641 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:28:46.320 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.terabyteshop.com.br/produto/34286/placa-de-video-intel-arc-b580-limited-edition-12gb-gddr6-xe2-ray-tracing-31p06hb0ba
+2025-12-16 10:28:46.953 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:28:46.980 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:28:47.109 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:28:48.042 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-carrefour/
+2025-12-16 10:29:46.577 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:29:46.622 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:29:47.057 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:31:46.899 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:31:46.935 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:31:47.035 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 10:31:47.051 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:31:47.254 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/celular-smartphone-realme-note-60-dual-sim-128gb-4gb-ram
+2025-12-16 10:31:47.798 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:31:48.562 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:31:51.298 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 10:33:46.928 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:33:46.975 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:33:47.263 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/paco-rabanne-one-million-1-million-tradicional-edt-30ml-para-masculino
+2025-12-16 10:33:48.908 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:34:46.359 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.terabyteshop.com.br/produto/34286/placa-de-video-intel-arc-b580-limited-edition-12gb-gddr6-xe2-ray-tracing-31p06hb0ba
+2025-12-16 10:35:47.261 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/banderas-blue-seduction-edt-200ml
+2025-12-16 10:35:47.756 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:35:48.589 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:35:48.884 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:35:49.760 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:35:49.761 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:35:50.387 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 10:36:46.923 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:36:47.154 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:37:47.027 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:37:47.310 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/mousepad-maxprint-pequeno-220x178mm-preto
+2025-12-16 10:37:47.676 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:37:48.598 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:39:47.034 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:39:47.090 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:39:47.139 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:39:47.865 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 10:39:48.353 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-casas-bahia/
+2025-12-16 10:40:47.119 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:40:47.223 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B075TGQVHT
+2025-12-16 10:40:47.672 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes/lists
+2025-12-16 10:41:47.130 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:42:47.032 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:42:47.088 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:42:47.133 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:42:47.137 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:42:47.309 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/politriz-lixadeira-automotiva-profissional-5-polegadas-600w-holtter-ferramentas
+2025-12-16 10:42:47.704 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promotom/lists/8f90988a-1c69-4f23-8b26-76286c3cdc87
+2025-12-16 10:42:48.842 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:43:47.132 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:43:47.139 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:43:47.191 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:43:47.218 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:43:47.825 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/ofertas
+2025-12-16 10:44:46.881 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 10:44:46.939 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/camera-seguranca-wi-fi-tp-link-tapo-tc40-noturna-1080p-cor-branco
+2025-12-16 10:44:47.100 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:44:47.457 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 10:44:48.681 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:45:10.129 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:45:10.283 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 10:45:47.175 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:45:47.187 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:45:47.364 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom/lists/01ccc7c4-2d45-47bd-a55f-0842f2334008
+2025-12-16 10:45:47.383 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop/lists
+2025-12-16 10:46:46.603 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx607vurl007w-i7-13620h-rtx-4050-16gb-ram-512gb-ssd-windows-11/cmj8mx02900ea9t0ifazk4v3p
+2025-12-16 10:47:30.006 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:47:30.013 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:47:30.305 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:47:30.737 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/monitor-lg-ultragear-24g411a-b-24fhd-144hz-1ms-mbr-nvidia-g-sync-amd-freesync-hdr10/p/MLB57489948
+2025-12-16 10:47:30.819 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/monitor-lg-ultragear-24g411a-b-24fhd-144hz-1ms-mbr-nvidia-g-sync-amd-freesync-hdr10/p/MLB57489948
+2025-12-16 10:47:47.421 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/cupons/lists
+2025-12-16 10:48:47.173 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:48:47.403 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/escova-fitagem-raquete-definidora-cabelo-modeladora-cacho
+2025-12-16 10:48:48.211 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/monitor-gamer-aoc-24-180hz-05ms-ips-24g4p/p/MLB44895498
+2025-12-16 10:48:48.746 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:49:06.654 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:49:46.568 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/monitor-lg-ultragear-g4-24g411ab-24-ips-fhd-144hz/cmj8n32y2001a9t0i5gqb9h46
+2025-12-16 10:49:47.275 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:49:47.479 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU3405753704
+2025-12-16 10:50:47.231 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:50:47.282 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:50:48.212 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-netshoes/
+2025-12-16 10:51:47.112 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promotom/lists/3376956e-08ad-4694-a9ae-e278ebac5629
+2025-12-16 10:51:47.258 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:51:47.271 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:52:46.919 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/console-nintendo-switch-2--jogo-digital-pokemon-legends-za/cmj8n50y200eg9t0i8k83hcy0
+2025-12-16 10:52:46.959 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/console-nintendo-switch-2--jogo-digital-mario-kart-world/cmj8n5rx500ek9t0iikju7gy9
+2025-12-16 10:52:47.274 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:52:47.349 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/suporte-para-carro-celular-por-carregamento-sem-fio-inducao-preto
+2025-12-16 10:52:47.457 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:52:47.959 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU3670718648
+2025-12-16 10:52:48.581 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:53:00.811 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:54:47.316 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:54:47.318 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 10:54:47.328 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:54:47.426 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 10:54:47.470 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/sutia-reforcado-plus-size-com-bojo-sustentacao-lateral-larga
+2025-12-16 10:54:48.388 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 10:54:48.389 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 10:55:07.754 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=None)
+2025-12-16 10:55:08.650 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 10:55:47.280 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 10:55:47.323 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 10:55:47.415 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:56:47.139 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip/lists
+2025-12-16 10:57:48.547 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 10:57:48.572 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:58:03.559 | WARNING  | src.core.link_router:resolver_link_real:27 - ⚠️ Erro ao resolver link https://promocoesfacil.com.br/whats: 
+2025-12-16 10:58:03.559 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://promocoesfacil.com.br/whats
+2025-12-16 10:58:47.346 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 10:58:47.371 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 10:58:47.422 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 10:58:47.438 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 10:59:47.444 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:59:48.370 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 10:59:58.998 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:00:17.332 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/xiaomi-redmi-watch-5-active-versao-global
+2025-12-16 11:00:17.914 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/meli-tenis-esportivo-masculino-e-feminino-pacer-under-armour-somente-34-e482
+2025-12-16 11:00:18.325 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 11:00:18.760 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:00:32.459 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:00:47.261 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:00:47.446 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:01:47.348 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:01:47.358 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:01:47.410 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 11:01:47.415 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 11:02:30.098 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:02:30.195 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:02:30.545 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:02:30.729 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU3016446803
+2025-12-16 11:02:47.676 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/mascara-de-cilios-lancome-monsieur-big-10ml
+2025-12-16 11:02:49.032 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:03:47.338 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:03:47.355 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:03:47.362 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 11:04:47.394 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 11:05:14.626 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:05:14.636 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:05:15.266 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.magazinevoce.com.br/az-request-verify
+2025-12-16 11:05:47.403 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:07:47.456 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:07:47.478 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:07:47.520 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:07:48.195 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:07:49.008 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:08:47.423 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:08:47.433 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:08:47.510 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 11:08:48.322 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/smart-tv-50-aoc-4k-dled-50u704578g-roku-tv-quad/p/MLB51202548
+2025-12-16 11:09:47.538 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 11:09:47.835 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/up/MLBU2900363414
+2025-12-16 11:10:47.528 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:10:47.587 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:10:48.575 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:10:48.575 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:10:49.183 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:11:47.441 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:12:47.490 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:12:47.560 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 11:12:47.670 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/dove-oleo-serum-bifasico-bond-intense-repair-110-ml
+2025-12-16 11:12:48.959 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:13:47.444 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/celular-samsung-galaxy-a07-256gb-8gb-cam-50mp-tela-67-violeta
+2025-12-16 11:13:47.524 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:13:49.102 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:13:49.593 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:13:50.747 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:13:50.747 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:13:50.938 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 11:14:47.374 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:14:47.653 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 11:14:47.766 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:14:47.770 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:15:47.515 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:15:47.616 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:15:47.626 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:15:47.701 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:15:47.849 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/micro-ondas-britania-bmo38-33-litro-limpa-facil-1400w-110v-127v
+2025-12-16 11:15:48.553 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:15:48.553 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:15:49.161 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:15:49.167 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0DMTTWH9S
+2025-12-16 11:15:49.684 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:16:47.499 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:16:47.604 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:16:48.577 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:16:48.577 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:16:48.902 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:17:47.553 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:18:47.489 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 11:19:47.527 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:19:47.582 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:20:46.989 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/leitor-de-disco-ps5-slim-pro-digital-sony-111c
+2025-12-16 11:20:47.394 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 11:20:47.496 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:20:47.538 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom/lists/3376956e-08ad-4694-a9ae-e278ebac5629
+2025-12-16 11:20:48.306 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:20:48.830 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:20:49.074 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:20:49.804 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:20:49.804 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:20:49.873 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:20:49.989 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 11:20:50.616 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 11:21:47.627 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:22:46.878 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.terabyteshop.com.br/
+2025-12-16 11:22:47.607 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:22:47.635 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 11:23:47.545 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:23:47.574 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:24:48.314 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-sorte-online/
+2025-12-16 11:25:47.637 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:25:47.801 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:25:47.811 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/arvore-de-natal-cheia-verde-pinheiro-luxo-210m-1350-galhos
+2025-12-16 11:25:47.978 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:25:48.902 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:25:48.903 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:25:49.526 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:25:49.682 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:26:47.707 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 11:27:47.567 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:27:47.822 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/vestido-longo-feminino-soltinho-de-alca-com-ajuste
+2025-12-16 11:27:49.465 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:29:47.452 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 11:29:49.995 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 11:30:47.812 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:30:47.943 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 11:31:47.874 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:32:48.066 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:33:47.578 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:33:47.706 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 11:33:49.493 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:33:50.403 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:33:50.403 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:33:50.580 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 11:34:48.312 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:34:49.283 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:34:49.284 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:34:49.884 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:34:54.741 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:34:55.639 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:34:55.640 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:34:55.948 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:36:47.460 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:36:47.789 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:36:47.895 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B08QV3XK76
+2025-12-16 11:36:48.146 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/mesa-de-jantar-70cm-estilo-minimalista-redonda-cor-tampa-mel-mel-pinus
+2025-12-16 11:36:48.935 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:36:48.936 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:36:49.281 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 11:36:50.211 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:37:47.865 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 11:37:48.343 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:37:49.108 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B08QV3XK76
+2025-12-16 11:37:49.208 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B08QV3XK76
+2025-12-16 11:37:49.554 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/prime
+2025-12-16 11:37:52.507 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 11:38:47.694 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:38:47.788 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/placa-mae-gigabyte-a520m-ds3h-v2-amd-micro-atx-ddr4-preto
+2025-12-16 11:38:49.058 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B08QV3XK76
+2025-12-16 11:38:49.415 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:38:50.008 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/prime
+2025-12-16 11:39:47.782 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/promotion/psp/A1T63F3K5NBDDO
+2025-12-16 11:39:48.228 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 11:40:47.178 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/geladeira-refrigerador-hq-frost-free-side-by-side-460-litros-cinza-hq-460sbsff-220-v-f138
+2025-12-16 11:40:47.599 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 11:40:47.900 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 11:40:47.995 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/conjunto-sala-de-jantar-sara-mesa-retangular-6-lugares-6-cadeiras
+2025-12-16 11:40:49.624 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:41:47.796 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://reduz.me/e5bb5e60
+2025-12-16 11:43:47.754 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:45:47.877 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 11:45:48.100 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/4cf74c33
+2025-12-16 11:47:30.519 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/promotion/psp/A1T63F3K5NBDDO
+2025-12-16 11:47:31.312 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:48:47.852 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 11:48:48.027 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/smartphone-infinix-smart-10-4gb-ram-256gb-camera-8mp-ia-tela-667-hd-120hz-bateria-5000mah-processador-t7250-android-15-go-dual-chip-preto
+2025-12-16 11:48:48.961 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice/lists
+2025-12-16 11:48:49.708 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:49:47.860 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/0f42a2bf
+2025-12-16 11:50:47.364 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/notebook-asus-tuf-gaming-f16-fx608jhr-rtx-5050-intel-core-i7-14650hx-8gb-ram-512gb-ssd-linux/cmj8p6nr5001t9t0ikwofiriq
+2025-12-16 11:50:47.706 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.meliuz.com.br/indique-e-ganhe
+2025-12-16 11:50:47.800 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:50:48.052 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-trocafy/
+2025-12-16 11:51:48.061 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-cozinha-liquidificador-copo-de-vidro-c-2l-e-mixer-3-em-1-aco-inoxidavel-gradiente
+2025-12-16 11:51:49.685 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 11:52:47.995 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:54:47.867 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:54:47.948 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 11:54:48.411 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://docs.google.com/forms/d/e/1FAIpQLSchgp2sX_fxHg6TP2UHjJoAwl5Qkjz_pNHzTMLrOKtPvwiShg/viewform
+2025-12-16 11:55:47.869 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:55:47.945 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 11:55:48.923 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 11:55:48.923 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 11:56:08.255 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=None)
+2025-12-16 11:56:47.883 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:58:36.530 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 11:58:48.014 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/monitor-portatil-156-full-hd-60hz-5ms-com-hdmi-e-type-c
+2025-12-16 11:58:49.679 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 12:00:48.069 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:00:48.115 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:00:48.203 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 12:00:48.883 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/loja/cupom-desconto-avon/
+2025-12-16 12:02:47.898 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 12:05:47.946 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:06:48.667 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 12:10:48.086 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 12:11:48.079 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:11:48.121 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:11:49.221 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:11:49.222 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:11:49.847 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 12:11:49.849 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:11:50.864 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:11:50.865 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:11:51.181 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 12:12:48.036 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:14:49.477 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:14:50.372 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:14:50.373 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:14:50.540 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 12:15:51.012 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:15:52.000 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:15:52.000 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:15:52.608 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 12:17:30.732 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:17:31.683 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:17:31.683 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:17:32.002 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 12:18:48.003 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:20:48.290 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:20:48.940 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/rec-por-rdollar11596-laminas-philips-oneblade-qp63051-c-3-unid-8b8c
+2025-12-16 12:20:48.941 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:20:48.941 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:20:48.970 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:20:49.153 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:20:49.153 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:20:49.289 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:20:49.324 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 12:20:49.354 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/grupos/
+2025-12-16 12:20:50.789 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:48.907 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:48.920 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:49.075 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:49.076 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:49.080 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:49.080 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:21:49.084 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:22:47.613 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/placa-de-video-xfx-rx-9060-xt-oc-white-gaming-amd-radeon-8gb/cmj8qeomx00f29t0i4tds108u
+2025-12-16 12:22:48.928 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:22:48.998 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:22:49.003 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:22:49.004 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:22:49.073 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.050 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.069 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.070 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.102 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.388 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:23:49.965 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:24:47.613 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/placa-de-video-rx-7600-series-graphics-cards-xfx-amd-radeon-8gb/cmj8qgnwq00209t0i4aohh8li
+2025-12-16 12:24:49.246 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: http://validate.perfdrive.com/1b480ee12e980ed6ea38b53a1afa91db/
+2025-12-16 12:25:48.306 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 12:26:47.642 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/placa-de-video-msi-rtx-5070-12g-shadow-3x-oc-nvidia-geforce-12gb/cmj8qil3q00f49t0imykycji0
+2025-12-16 12:26:48.495 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:27:48.344 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:27:49.658 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:27:49.839 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:28:49.071 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:29:48.765 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 12:29:49.185 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/placa-de-video-gigabyte-rtx-5070-ti-eagle-oc-sff-16g-nvidia-geforce-16gb/cmj8qn2op00f69t0i9j3okevg
+2025-12-16 12:32:31.073 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:33:49.517 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://kabum.onelink.me/civn
+2025-12-16 12:35:48.596 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:35:49.424 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 12:35:49.424 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:35:49.666 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:35:49.667 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:35:50.281 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 12:37:48.456 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/57ea90f9
+2025-12-16 12:40:47.868 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/machado-sparta-600g-cabo-fibra-de-vidro-fb7e
+2025-12-16 12:40:48.311 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 12:40:48.541 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:41:48.537 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:42:48.497 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:43:48.462 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:44:48.280 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:45:48.736 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 12:46:48.600 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:46:48.719 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/79415069
+2025-12-16 12:46:49.319 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://nike-br.onelink.me/Q0y9
+2025-12-16 12:47:31.301 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 12:48:48.339 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:49:48.872 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 12:49:49.804 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 12:49:49.805 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 12:49:49.997 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 12:49:53.808 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://lista.mercadolivre.com.br/casas-bahia-loja
+2025-12-16 12:50:48.868 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 12:50:49.840 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/placa-me-asus-pamd-am4-b550m-plus-tuf-gaming-4xddr4-matx/p/MLB22415603
+2025-12-16 12:51:48.828 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotom
+2025-12-16 12:52:49.101 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:55:48.914 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:56:16.806 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 12:56:49.030 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:57:48.954 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 12:59:48.372 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0C3SQL65C
+2025-12-16 13:00:48.361 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/motorola-moto-g15-128gb-12gb-cam-50mp-azul-claro-653b
+2025-12-16 13:00:48.769 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 13:00:48.925 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:01:49.088 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 13:02:30.959 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://benchpromos.com.br/promocao/controle-sem-fio-sony-dualsense-ps5-edicao-limitada-astro-bot-joyful/cmj8rtctq00249t0i38593hpu
+2025-12-16 13:03:48.607 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 13:04:07.016 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:05:49.077 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:05:49.350 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 13:06:14.362 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 13:06:15.396 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 13:06:15.397 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 13:06:16.035 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 13:07:37.369 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 13:10:49.295 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:10:49.645 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://r.amzlink.to/
+2025-12-16 13:12:49.205 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:13:49.352 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 13:15:49.141 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:17:31.877 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 13:17:32.863 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 13:17:32.863 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 13:17:33.038 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 13:18:48.713 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:18:48.714 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 13:18:48.774 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:20:49.759 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/meli-shampoo-bebe-tradicional-250ml-granado-f395
+2025-12-16 13:20:50.176 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 13:22:49.747 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 13:22:51.353 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 13:22:51.353 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 13:22:52.069 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 13:22:57.878 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://lista.mercadolivre.com.br/loja/inpower/_PriceRange_2389BRL-2390BRL_NoIndex_True
+2025-12-16 13:23:49.547 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 13:23:54.940 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 13:24:49.668 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 13:25:49.505 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:25:49.591 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/cupons
+2025-12-16 13:28:49.632 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:28:49.660 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/fd59c501
+2025-12-16 13:29:48.788 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 13:29:51.349 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 13:30:49.725 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:32:49.767 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://reduz.me/5c720095
+2025-12-16 13:36:49.896 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/hot-wheels-cartela-de-carrinhos-com-5-mattel-o-kit-cor-multicolor
+2025-12-16 13:36:51.490 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 13:37:49.777 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop
+2025-12-16 13:38:49.833 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:38:50.157 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://r.amzlink.to/
+2025-12-16 13:39:49.809 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:40:50.361 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/camiseta-nike-corinthians-verbiage-masculina-8105
+2025-12-16 13:40:50.775 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 13:42:49.894 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 13:42:50.838 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 13:42:50.838 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 13:43:10.178 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out. (read timeout=None)
+2025-12-16 13:45:49.183 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 13:46:49.806 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 13:48:48.972 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.magazinevoce.com.br/az-request-verify
+2025-12-16 13:48:49.388 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/monitor-gamer-samsung-24-fhd-120hz-hdmi-dp-preto-s3
+2025-12-16 13:48:51.228 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 13:48:52.126 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 13:56:49.931 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 13:58:50.001 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 13:59:48.739 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.magazinevoce.com.br/az-request-verify
+2025-12-16 14:00:49.374 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/clube-ifood-3-meses-gratis-a39b
+2025-12-16 14:00:49.582 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promozonevip
+2025-12-16 14:00:49.762 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/lava-louca-electrolux-8-servicos-inox-lava-e-seca-50-ls08e
+2025-12-16 14:00:49.814 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 14:00:51.514 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:02:32.757 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/computador-gamer-completo-2eletro-rgb-i7-16gb-ram-512gb-ssd-fonte-500w-monito-23-75hz-kit-gamer-completo
+2025-12-16 14:02:34.681 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:03:49.266 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 14:04:50.270 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/multiprocessador-philips
+2025-12-16 14:04:52.197 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:05:50.064 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 14:06:50.309 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/robo-aspirador-roomba-405-combo
+2025-12-16 14:06:52.124 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:07:51.689 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 14:07:52.638 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 14:07:52.638 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 14:07:53.261 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: 429 Too Many Requests
+Too Many Requests
+2025-12-16 14:07:57.888 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 14:08:50.208 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 14:08:50.246 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/placa-de-video-asrock-radeon-rx-6600-challenger-white-8gb-gddr6-fsr-ray-tracing-branco-90-ga4uzz-00uanf
+2025-12-16 14:08:51.880 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:10:50.298 | INFO     | __main__:processar_oferta:86 - 🔎 Processando: AMAZON | Modo: 🤖 AUTO
+2025-12-16 14:10:51.305 | ERROR    | src.infrastructure.whatsapp_client:enviar_oferta:34 - ❌ Falha ao enviar WhatsApp (401): {"code":401,"message":"Invalid token.","data":{}}
+
+2025-12-16 14:10:51.305 | ERROR    | __main__:processar_oferta:104 - ❌ Falha no envio da oferta Amazon via WhatsApp. Enviando backup para o Telegram 'me'.
+2025-12-16 14:10:51.484 | ERROR    | __main__:processar_oferta:119 - ❌ Erro ao postar no Twitter: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-12-16 14:11:50.317 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/jogo-de-ferramentas-manuais-c189-pecas-profissional-fasterr-preto
+2025-12-16 14:11:52.263 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:13:50.242 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://lista.mercadolivre.com.br/pagina/e-fmstore/_PriceRange_138-139_NoIndex_True
+2025-12-16 14:13:50.286 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-preto-e-vermelho-epsilon-marca-redfin-8kg-inercia
+2025-12-16 14:13:52.184 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:14:49.553 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/tjgaming
+2025-12-16 14:14:50.565 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://t.me/TJGOFERTASs
+2025-12-16 14:14:51.476 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://t.me/PROMOSGERAISTJ
+2025-12-16 14:14:52.233 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.whatsapp.com/channel/0029Vb6EHc1KmCPTwxvrbT10
+2025-12-16 14:15:49.666 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/kit-2-pneus-20560r16-bridgestone-ecopia-ep150-92h-indice-de-velocidade-h
+2025-12-16 14:15:50.327 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/ofertas
+2025-12-16 14:15:51.093 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:16:50.230 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 14:16:50.274 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/urubupromo
+2025-12-16 14:17:32.737 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/promotop/lists
+2025-12-16 14:17:32.787 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/xetdaspromocoes/lists/140c506e-ca9c-45ba-8623-e37b88be58f3
+2025-12-16 14:17:33.017 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/fonte-carregador-jfa-120a-bob-slim-bivolt-cor-preto
+2025-12-16 14:17:34.816 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:17:50.204 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509
+2025-12-16 14:17:52.624 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 14:18:49.425 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 14:18:49.427 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/agenciarice/lists/c3e8264e-c140-4566-aa77-dd1ead996cb7
+2025-12-16 14:19:50.812 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/pq20251002095509/lists
+2025-12-16 14:19:53.265 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://chat.whatsapp.com/H7WuUyHoFo632jZusMQtko
+2025-12-16 14:20:49.548 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.terabyteshop.com.br/produto/38328/kit-fan-com-3-unidades-superframe-pulse-argb-120mm-pwm-branco-sf-fn-psk12aw
+2025-12-16 14:20:50.368 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.amazon.com.br/dp/B0FQWC8BWS
+2025-12-16 14:20:50.441 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/capa-capinha-protecao-camera-para-iphone-15-16-17-pro-max
+2025-12-16 14:20:50.689 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.pelando.com.br/d/samsung-smart-tag-2-c-4-unid-pretobranco-3383
+2025-12-16 14:20:51.108 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.pelando.com.br/grupos/
+2025-12-16 14:20:51.861 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:21:49.992 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promozonevip/lists
+2025-12-16 14:21:50.462 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.magazinevoce.com.br/az-request-verify
+2025-12-16 14:21:50.583 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/rapidmove-go-trainer-m-adidas
+2025-12-16 14:21:52.342 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:22:50.259 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 14:23:50.306 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/xetdaspromocoes
+2025-12-16 14:23:50.309 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/mesprom
+2025-12-16 14:23:50.745 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://lista.mercadolivre.com.br/loja/homenow/cadeira-de-escrit%c3%b3rio-rivatti-presidente-nr17-ergon%c3%b4mica-premium-toledo-cor-preto_PriceRange_0BRL-900BRL_NoIndex_True
+2025-12-16 14:24:50.273 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/ro20251028090844/lists/002e8a24-f080-44ce-b802-6b3862d97fa9
+2025-12-16 14:24:50.291 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 14:24:50.825 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/barbie-playset-estacao-pet-shop-mattel
+2025-12-16 14:24:52.262 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:25:50.363 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/agenciarice
+2025-12-16 14:25:50.530 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://descontostop.com/promocao/samsung-galaxy-buds-core
+2025-12-16 14:25:51.942 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://descontostop.com/grupo-promocoes-whatsapp-telegram-cupom-desconto/
+2025-12-16 14:26:49.640 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (None) ignorado: https://www.terabyteshop.com.br/produto/37334/fonte-msi-mag-a750bn-pcie5-750w-80-plus-bronze-pfc-ativo-preto
+2025-12-16 14:26:50.343 | INFO     | __main__:processar_oferta:73 - ♻️ Oferta repetida ignorada: https://www.mercadolivre.com.br/social/ro20251028090844
+2025-12-16 14:27:50.468 | INFO     | __main__:processar_oferta:83 - 🚫 Link não Amazon (MERCADO LIVRE) ignorado: https://www.mercadolivre.com.br/social/promotop
