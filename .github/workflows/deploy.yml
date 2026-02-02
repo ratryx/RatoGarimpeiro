@@ -1,0 +1,39 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            PROJECT_DIR=/home/projects/bot-afiliados
+
+            if [ ! -d "$PROJECT_DIR" ]; then
+              mkdir -p /home/projects
+              git clone https://${{ secrets.GH_TOKEN }}@github.com/ThiagoBettinRamos/RatoGarimpeiro.git $PROJECT_DIR
+            fi
+
+            cd $PROJECT_DIR
+            git config pull.rebase false
+            git pull https://${{ secrets.GH_TOKEN }}@github.com/ThiagoBettinRamos/RatoGarimpeiro.git main
+
+
+            # Cria venv se não existir
+            if [ ! -d "venv" ]; then
+              python3 -m venv venv
+            fi
+
+            source venv/bin/activate
+            pip install -r requirements.txt
+
+            # Reinicia o serviço (ajuste o nome se necessário)
+            sudo systemctl restart bot-afiliados || true
