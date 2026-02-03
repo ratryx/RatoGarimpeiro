@@ -153,7 +153,17 @@ async def processar_oferta(texto_original: str, link_bruto: str, event):
     logger.info(f"🔎 Captado: {loja}")
 
     # 3. LIMPEZA TOTAL DE LINKS DE TERCEIROS NO TEXTO
-    texto_puro = re.sub(r'https?://\S+', '', texto_original).strip()
+    texto_puro = texto_original
+    # Remove URLs com protocolo (http/https)
+    texto_puro = re.sub(r'https?://\S+', '', texto_puro)
+    # Remove links t.me (com ou sem protocolo)
+    texto_puro = re.sub(r'(?:https?://)?t\.me/\S+', '', texto_puro, flags=re.IGNORECASE)
+    # Remove links de domínios conhecidos de grupos (reduza, etc)
+    texto_puro = re.sub(r'(?:https?://)?reduza\.com\.br\S*', '', texto_puro, flags=re.IGNORECASE)
+    # Remove menções de canais (@nomedocanal)
+    texto_puro = re.sub(r'@\w+', '', texto_puro)
+    # Limpa espaços extras
+    texto_puro = re.sub(r'\s+', ' ', texto_puro).strip()
 
     # 4. DOWNLOAD DE MÍDIA
     caminho_foto = None
