@@ -142,12 +142,12 @@ async def processar_oferta(texto_original: str, link_bruto: str, event):
     links_processados.append(url_limpa)
     if len(links_processados) > 200: links_processados.pop(0)
 
-    # 2. ROTEAMENTO E FILTRO ML (CORRIGIDO)
+    # 2. ROTEAMENTO E FILTRO (AGORA SÓ AMAZON 🟢)
     link_final, loja, _ = link_router.processar(url_real)
-
-    # Bloqueio do Mercado Livre (Independente de como escreverem)
-    if not loja or "MERCADO" in loja.upper():
-        logger.warning(f"🚫 Bloqueado: {loja}")
+    
+    # MUDANÇA AQUI: Se a loja NÃO FOR Amazon, o bot ignora e para.
+    if loja != "AMAZON":
+        logger.warning(f"🚫 Ignorado (Não é Amazon): {loja}")
         return
 
     logger.info(f"🔎 Captado: {loja}")
@@ -158,15 +158,15 @@ async def processar_oferta(texto_original: str, link_bruto: str, event):
     # 4. DOWNLOAD DE MÍDIA
     caminho_foto = None
     try:
+        # Tenta pegar foto da mensagem ou baixa direto da Amazon
         if event.message.photo:
             caminho_foto = await event.message.download_media(file=f"oferta_{event.message.id}.jpg")
-        elif loja == "AMAZON":
+        else:
             caminho_foto = await baixar_imagem_amazon(link_final, f"oferta_{event.message.id}.jpg")
     except Exception as e:
         logger.warning(f"🖼️ Erro ao obter imagem: {e}")
 
-    # 5. ENTRADA NA FILA (SEM IA AQUI)
-    # A IA foi movida para o 'trabalhador_da_fila' para evitar o erro 429
+    # 5. ENTRADA NA FILA
     await fila_postagem.put((texto_puro, link_final, caminho_foto, loja))
     logger.info(f"📥 Adicionado à fila. Posição: {fila_postagem.qsize()}")
 
