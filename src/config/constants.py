@@ -1,8 +1,8 @@
 LOJAS_ATIVAS = {
     "AMAZON": True,
     "MERCADO_LIVRE": False,
-    "ALIEXPRESS": True,
-    "SHOPEE": True,
+    "ALIEXPRESS": False,
+    "SHOPEE": False,
     "AWIN_NIKE": True,
     "AWIN_CEA": True,
     "AWIN_ADIDAS": True,
